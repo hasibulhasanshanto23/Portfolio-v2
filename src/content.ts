@@ -1,8 +1,4 @@
-/**
- * ALL the text on the site lives in this one file.
- * Edit it, save, and the site updates. No other file needs touching for content.
- * Empty lists and empty strings are hidden automatically.
- */
+
 
 export const site = {
   name: "Hasan Hasibul",
